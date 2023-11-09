@@ -1,0 +1,5 @@
+[console_scripts]
+split-folders=splitfolders.cli:run
+split_folders=splitfolders.cli:run
+splitfolders=splitfolders.cli:run
+
